@@ -160,6 +160,7 @@ plot(sem.m7,
      alpha = 0.05,
      show = "std",
      digits = 3,
+     title= 'PSEM7'
      add_edge_label_spaces = TRUE
 )
 plot(sem.m7)
