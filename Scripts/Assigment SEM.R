@@ -137,7 +137,7 @@ ns_dashed = T,
 alpha = 0.05,
 show = "std",
 digits = 3,
-title= 'PSEM 7',
+title= 'PSEM 6',
 add_edge_label_spaces = TRUE
 )
 
