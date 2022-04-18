@@ -16,7 +16,7 @@ library(ggplot2)
 library(ggfortify)
 library(patchwork)
 library(piecewiseSEM)
-library(multicompView)
+library(multcompView)
 library(nloptr)
 
 rawd<-read.csv(here("Data", "sweden_simple.csv"))
@@ -137,6 +137,7 @@ ns_dashed = T,
 alpha = 0.05,
 show = "std",
 digits = 3,
+title= 'PSEM 7',
 add_edge_label_spaces = TRUE
 )
 
